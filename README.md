@@ -1,7 +1,25 @@
-## Hi there 👋
+
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  width="850">
 <br><br>
+## 🧠 About me
+
+<div align="center">
+
+  <a href="https://t.me/YOUR_USERNAME">
+    <img src="https://cdn.simpleicons.org/telegram" height="32" />
+  </a>
+  <a href="https://vk.com/YOUR_USERNAME">
+    <img src="https://cdn.simpleicons.org/vk" height="32" />
+  </a>
+  <a title="Contact us by mail" href="mailto:hanetskyv@yandex.ru">
+    <img src="https://cdn.simpleicons.org/gmail" height="32" />
+  </a>
+
+</div>
+
+---
+
 ## 🧠 About me
 
 ```js
@@ -16,16 +34,18 @@ const vladislav = {
     "Golang",
     "C (low-level, memory)",
     "PostgreSQL",
-    "System Design"
-    "Computer Science"
-    "Docker"
+    "System Design",
+    "Computer Science",
+    "Docker",
+    "CI/CD"
   ],
 
   interests: [
     "Highload systems",
     "OS architecture",
     "Distributed systems",
-    "API design"
+    "API design",
+    "Working with big data processing"
   ],
 
   techStack: {
@@ -45,8 +65,8 @@ function grow() {
     improve();
     }
 }
+```
 
-```md
 ## 📈 Activity Graph
 
-[![Vladislav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vladislav313131&theme=github-dark&hide_border=true)](https://github.com/Vladislav313131)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vladislav313131&theme=github-dark&hide_border=true)](https://github.com/Vladislav313131)
