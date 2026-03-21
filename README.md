@@ -2,16 +2,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  width="850">
 <br><br>
-## 🧠 About me
-
 <div align="center">
 
-  <a href="https://t.me/YOUR_USERNAME">
+  <a href="https://t.me/Vlad_Khan11">
     <img src="https://cdn.simpleicons.org/telegram" height="32" />
   </a>
-  <a href="https://vk.com/YOUR_USERNAME">
+
+  <a href="https://vk.com/khanetsky3">
     <img src="https://cdn.simpleicons.org/vk" height="32" />
   </a>
+
   <a title="Contact us by mail" href="mailto:hanetskyv@yandex.ru">
     <img src="https://cdn.simpleicons.org/gmail" height="32" />
   </a>
