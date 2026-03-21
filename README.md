@@ -2,20 +2,51 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  width="850">
 <br><br>
-const aboutMe = {
-  role: "Backend Developer (in progress)"
+## 🧠 About me
+
+```js
+const vladislav = {
+  location: "Russia",
+  age: 21,
+  status: "Student",
+  role: "Backend Developer (in progress)",
+  currentWork: "System Engineer (Backup Infrastructure)",
+
+  learning: [
+    "Golang",
+    "C (low-level, memory)",
+    "PostgreSQL",
+    "System Design"
+    "Computer Science"
+    "Docker"
+  ],
+
+  interests: [
+    "Highload systems",
+    "OS architecture",
+    "Distributed systems",
+    "API design"
+  ],
+
+  techStack: {
+    languages: ["Go", "C"],
+    backend: ["REST API"],
+    database: ["PostgreSQL"],
+    tools: ["Docker", "Git", "Linux", "Bash"]
+  },
+
+  goal: "Strong backend & backend with AI / system engineer"
+};
+
+function grow() {
+    while (!success) {
+    learn();
+    build();
+    improve();
+    }
 }
-<!--
-**Vladislav313131/Vladislav313131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```md
+## 📈 Activity Graph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Vladislav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vladislav313131&theme=github-dark&hide_border=true)](https://github.com/Vladislav313131)
