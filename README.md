@@ -4,11 +4,11 @@
 <br><br>
 <div align="center">
 
-  <a href="https://t.me/Vlad_Khan11">
+  <a title="Contact us by Telegram" href="https://t.me/Vlad_Khan11">
     <img src="https://cdn.simpleicons.org/telegram" height="32" style="margin: 0 30px;" />
   </a>
 
-  <a href="https://vk.com/khanetsky3">
+  <a title="Contact us VK" href="https://vk.com/khanetsky3">
     <img src="https://cdn.simpleicons.org/vk" height="32" style="margin: 0 30px;" />
   </a>
 
