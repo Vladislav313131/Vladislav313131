@@ -5,15 +5,15 @@
 <div align="center">
 
   <a href="https://t.me/Vlad_Khan11">
-    <img src="https://cdn.simpleicons.org/telegram" height="32" style="margin: 0 10px;" />
+    <img src="https://cdn.simpleicons.org/telegram" height="32" style="margin: 0 30px;" />
   </a>
 
   <a href="https://vk.com/khanetsky3">
-    <img src="https://cdn.simpleicons.org/vk" height="32" style="margin: 0 10px;" />
+    <img src="https://cdn.simpleicons.org/vk" height="32" style="margin: 0 30px;" />
   </a>
 
   <a title="Contact us by mail" href="mailto:hanetskyv@yandex.ru">
-    <img src="https://cdn.simpleicons.org/gmail" height="32" style="margin: 0 10px;" />
+    <img src="https://cdn.simpleicons.org/gmail" height="32" style="margin: 0 30px;" />
   </a>
 
 </div>
