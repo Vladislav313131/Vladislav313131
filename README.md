@@ -23,7 +23,7 @@
 ## 🧠 About me
 
 ```js
-const vladislav = {
+const Vladislav = {
   location: "Russia",
   age: 21,
   status: "Student",
