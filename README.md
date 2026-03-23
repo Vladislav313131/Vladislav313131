@@ -27,8 +27,7 @@ const vladislav = {
   location: "Russia",
   age: 21,
   status: "Student",
-  role: "Backend Developer (in progress)",
-  currentWork: "System Engineer (Backup Infrastructure)",
+  role: "Backend Developer (in progress)"
 
   learning: [
     "Golang",
